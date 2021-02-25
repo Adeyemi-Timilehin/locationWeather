@@ -1,0 +1,18 @@
+body{
+margin: 0;
+padding: 0;
+}
+.container{
+    color: aqua;
+    margin: 20px auto;
+    padding: 10px;
+}
+input[type="text"]{
+font-size: 20px;
+color: rgb(176, 221, 187);
+background-color: rgb(168, 232, 236);
+}
+label{
+    font-size: 2em;
+    color: aquamarine;
+}
